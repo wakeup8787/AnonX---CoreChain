@@ -118,7 +118,7 @@ Privacy is not a feature — it’s a right.
 AnonX exists to provide anonymous, legal payments for ordinary people in a system where cash is disappearing. It’s about offering a choice.
 
 You don’t need an identity to be honest.
-2. Manifest AnonX (ENG)
+
 Manifesto: AnonX
 
 Privacy. Freedom. Instant Exchange. For people, not profit.
