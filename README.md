@@ -61,3 +61,4 @@ We’re building it for **free people** who want to pay anyone, anywhere, anytim
 
 **Want to build with us?**
 
+![62896932-c4d7-42e9-ab07-c25fc6cabec8](https://github.com/user-attachments/assets/5831cd11-5f4c-4413-8ca3-41a5e599e974)
